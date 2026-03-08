@@ -63,19 +63,15 @@ Before jumping into GNS3, I planned out the IP addressing scheme. I went with a 
 
 ### Installing GNS3
 
-I started by setting up GNS3 on my Windows machine. This involved installing VirtualBox first (for the GNS3 VM), then GNS3 itself, and finally importing the GNS3 VM.
+I started by setting up GNS3 on my Windows machine. This involved installing VirtualBox first (for the GNS3 VM), then GNS3 itself, and finally importing the GNS3 VM. The VirtualBox setup was straightforward - just a standard installation. GNS3 installation took a bit longer since it includes Wireshark and other networking tools.
 
-![VirtualBox Installed](screenshots/01-installation/01-virtualbox-installed.png)
+![GNS3 Installed](https://github.com/lionelmsango/small-office-network-gns3-/blob/0fbd676ee9dd0682cc941952debf4d628831a373/Screenshots/screenshots01-installation02-gns3-installed.png..jpg)
 
-The VirtualBox setup was straightforward - just a standard installation.
-
-![GNS3 Installed](screenshots/01-installation/02-gns3-installed.png)
-
-GNS3 installation took a bit longer since it includes Wireshark and other networking tools.
+I imported the GNS3 VM and allocated 4GB RAM and 2 CPU cores. Initially I only gave it 2GB but performance was sluggish, so I bumped it up.
 
 ![GNS3 VM Imported](screenshots/01-installation/03-gns3-vm-imported.png)
 
-I imported the GNS3 VM and allocated 4GB RAM and 2 CPU cores. Initially I only gave it 2GB but performance was sluggish, so I bumped it up.
+
 
 ### First Connection
 
