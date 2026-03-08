@@ -21,9 +21,6 @@ I created a simple office network topology with 3 computers connected through a 
 
 Here's the final topology I built in GNS3:
 
-![Network Topology](screenshots/05-testing/02-topology-diagram.png)
-
-
 The logical layout is pretty straightforward:
 
 ```
