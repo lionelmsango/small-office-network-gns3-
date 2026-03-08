@@ -67,9 +67,9 @@ I started by setting up GNS3 on my Windows machine. This involved installing Vir
 
 ![GNS3 Installed](https://github.com/lionelmsango/small-office-network-gns3-/blob/0fbd676ee9dd0682cc941952debf4d628831a373/Screenshots/screenshots01-installation02-gns3-installed.png..jpg)
 
-I imported the GNS3 VM and allocated 4GB RAM and 2 CPU cores. Initially I only gave it 2GB but performance was sluggish, so I bumped it up.
+I imported the GNS3 VM and allocated 4GB RAM and 2 CPU cores. Initially, I only gave it 2GB but performance was sluggish, so I bumped it up.
 
-![GNS3 VM Imported](screenshots/01-installation/03-gns3-vm-imported.png)
+![GNS3 VM Imported](https://github.com/lionelmsango/small-office-network-gns3-/blob/16d901ab11d855f814882e6e43b1b60890ab7e11/Screenshots/screenshots01-installation03-gns3-vm-imported.png.jpg)
 
 
 
