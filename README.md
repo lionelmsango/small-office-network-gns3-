@@ -12,7 +12,6 @@ I created a simple office network topology with 3 computers connected through a 
 **Quick Stats:**
 - **Network:** 192.168.1.0/24
 - **Devices:** 3 PCs, 1 switch, 1 NAT gateway
-- **Time Spent:** ~5 hours
 - **Tools:** GNS3 2.2.48, VirtualBox 7.0, Wireshark
 
 - ---
@@ -60,7 +59,7 @@ Before jumping into GNS3, I planned out the IP addressing scheme. I went with a 
 
 ### Installing GNS3
 
-I started by setting up GNS3 on my Windows machine. This involved installing VirtualBox first (for the GNS3 VM), then GNS3 itself, and finally importing the GNS3 VM. The VirtualBox setup was straightforward - just a standard installation. GNS3 installation took a bit longer since it includes Wireshark and other networking tools.
+I started by setting up GNS3 on my Windows machine. This involved installing VirtualBox first (for the GNS3 VM), then GNS3 itself, and finally importing the GNS3 VM. The VirtualBox setup was straightforward, just a standard installation. GNS3 installation took a bit longer since it includes Wireshark and other networking tools.
 
 ![GNS3 Installed](https://github.com/lionelmsango/small-office-network-gns3-/blob/0fbd676ee9dd0682cc941952debf4d628831a373/Screenshots/screenshots01-installation02-gns3-installed.png..jpg)
 
@@ -86,7 +85,7 @@ Seeing that green indicator was satisfying that everything was working!
 
 ### Starting Fresh
 
-I created a new blank project called "Small-Office-Network" and stared at the empty workspace for a moment, planning where to place everything.
+I created a new blank project called "Small-Office-Network" and took a moment to plan where to place everything.
 
 ![Blank Project](https://github.com/lionelmsango/small-office-network-gns3-/blob/1ffa908bcd05c0f7db874d51ab08120d2e5db24c/Screenshots/screenshots03-build01-blank-project.png.jpg)
 
@@ -97,7 +96,7 @@ I dragged devices from the left sidebar into the workspace:
 2. Ethernet switch (to connect everything)
 3. Three VPCS devices (lightweight virtual PCs)
 
-I arranged them in a logical layout - NAT at the top, switch in the middle, and the three PCs spread out below.
+I arranged them in a logical layout, namely, NAT at the top, switch in the middle, and the three PCs spread out below.
 
 ![Devices Added](https://github.com/lionelmsango/small-office-network-gns3-/blob/1ffa908bcd05c0f7db874d51ab08120d2e5db24c/Screenshots/screenshots03-build02-devices-added.png.jpg)
 
@@ -105,8 +104,6 @@ At this point nothing was connected yet, just positioned on the right place.
 
 ---
 
-
-At this point nothing was connected yet, just positioned on the canvas.
 
 ### Making Connections
 
