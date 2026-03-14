@@ -1,4 +1,4 @@
-# Small Office Network - My First GNS3 Project
+# Small Office Network - GNS3 Project
 
 This was my first hands-on experience building and configuring a network from scratch.
 
