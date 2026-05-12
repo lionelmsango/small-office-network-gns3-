@@ -1,9 +1,10 @@
 # Small Office Network - GNS3 Project
 
-This was my first hands-on experience building and configuring a network from scratch.
-
-
 ---
+
+## Kurzbeschreibung
+
+Dieses Projekt zeigt die Konzeption und Umsetzung eines einfachen Büronetzwerks in GNS3. Ich habe eine Topologie mit NAT-Gateway, Ethernet-Switch und drei Workstations (192.168.1.0/24) aufgebaut, alle Geräte mit statischen IP-Adressen konfiguriert und die Netzwerkkonnektivität durch Ping-Tests zwischen allen Knoten verifiziert. Das Projekt bildet die Grundlage für weiterführende Netzwerkkonfigurationen wie VLANs, dynamisches Routing und Firewall-Integration.
 
 ## What I Built
 
