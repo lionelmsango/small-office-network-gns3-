@@ -66,7 +66,7 @@ I started by setting up GNS3 on my Windows machine. This involved installing Vir
 
 I imported the GNS3 VM and allocated 4GB RAM and 2 CPU cores. Initially, I only gave it 2GB but performance was sluggish, so I bumped it up.
 
-![GNS3 VM Imported](https://github.com/lionelmsango/small-office-network-gns3-/blob/16d901ab11d855f814882e6e43b1b60890ab7e11/Screenshots/screenshots01-installation03-gns3-vm-imported.png.jpg)
+![GNS3 VM Imported](https://github.com/lionelmsango/small-office-network-gns3-/blob/72295138aa3a7a296f7d99329cd8c42aa72a4d25/Screenshots/screenshots01-installation03-gns3-vm-imported.png.jpg)
 
 
 
@@ -88,7 +88,7 @@ Seeing that green indicator was satisfying that everything was working!
 
 I created a new blank project called "Small-Office-Network" and took a moment to plan where to place everything.
 
-![Blank Project](https://github.com/lionelmsango/small-office-network-gns3-/blob/1ffa908bcd05c0f7db874d51ab08120d2e5db24c/Screenshots/screenshots03-build01-blank-project.png.jpg)
+![Blank Project](https://github.com/lionelmsango/small-office-network-gns3-/blob/72295138aa3a7a296f7d99329cd8c42aa72a4d25/Screenshots/screenshots03-build01-blank-project.png.jpg)
 
 ### Adding Devices
 
@@ -128,7 +128,7 @@ I renamed the devices to make them more meaningful:
 
 I also added a text note with the network details (192.168.1.0/24) for quick reference.
 
-![Topology Final](https://github.com/lionelmsango/small-office-network-gns3-/blob/1ffa908bcd05c0f7db874d51ab08120d2e5db24c/Screenshots/screenshots03-build04-topology-final.png.jpg)
+![Topology Final](https://github.com/lionelmsango/small-office-network-gns3-/blob/72295138aa3a7a296f7d99329cd8c42aa72a4d25/Screenshots/screenshots03-build04-topology-final.png.jpg)
 
 
 ### Powering On
